@@ -1,0 +1,47 @@
+body{
+	margin: 0;
+	padding: 0;
+}
+header{
+	width: 100%;
+}
+.lc-btn{
+	background-color: #fff;
+	border: 1px solid gray;
+
+}
+.search-bar{
+	width: 55%;
+}
+
+#search_concept{
+	padding:0px 15px;
+}
+.navbar-light{
+	padding-left: 40px;
+}
+.search-icon{
+    position: absolute;
+    right: 0px;
+    z-index: 9999;
+    padding-top: 10px;
+    padding-right: 15px;
+}
+.search-key{
+	border: 1px solid gray;
+}
+
+.md-form{
+	    border: 0;
+    background: transparent;
+    font-weight: 600;
+}
+.log-btn{
+	margin-left: 200px;
+}
+.log-btn button{
+	pointer-events: none;
+}
+.dropdown .md-form{
+	margin-left: 25px;
+}
